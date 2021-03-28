@@ -1,0 +1,4 @@
+C:\Users\Utilisateur\Documents\Game Project\project-visual-studio\Save progress - Copy (2)\x64\Debug\SpringProject.exe
+C:\Users\Utilisateur\Documents\Game Project\project-visual-studio\Save progress - Copy (2)\x64\Debug\SpringProject.pdb
+C:\Users\souam\OneDrive\Desktop\Pizza party\Game-Project\PizzaParty\x64\Debug\SpringProject.exe
+C:\Users\souam\OneDrive\Desktop\Pizza party\Game-Project\PizzaParty\x64\Debug\SpringProject.pdb
